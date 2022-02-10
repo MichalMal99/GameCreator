@@ -7,7 +7,7 @@
 #include "Punkty.h"
 
 
-
+//dupa u slupa
 
 int main(int argc, char *argv[])
 {
